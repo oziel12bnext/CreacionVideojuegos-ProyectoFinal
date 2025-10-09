@@ -5,13 +5,12 @@ Este proyecto forma parte de la materia **Creación de Videojuegos**.
 Tiene como objetivo desarrollar un videojuego interactivo que combine creatividad, jugabilidad y tecnología, aplicando los principios de diseño, programación y experiencia del usuario aprendidos durante el curso.
 
 ## 👥 Integrantes
-- Víctor Oziel  
+- Víctor Oziel Flores Salvador
 - Natalia Hernández Ramos  
 - Ernesto Solís Ramírez  
 - Emiliano Arellano Guerra
 
 ## ⚙️ Tecnologías utilizadas
-- **Python y Django** (para la parte lógica o backend del proyecto)  
 - **HTML, CSS, JavaScript** (para la interfaz web si aplica)  
 - **Motor de desarrollo** *(puede ser Unity, Godot o motor propio basado en Django + JS)*  
 - **Git y GitHub** para control de versiones
