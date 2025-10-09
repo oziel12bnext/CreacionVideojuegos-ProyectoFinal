@@ -48,5 +48,4 @@ Tiene como objetivo desarrollar un videojuego interactivo que combine creativida
 **Nombre:** Francisco Esparza  
 **Correo:** fesparzaa@gmail.com  
 
-## 📅 Entrega
-**Fecha límite:** Miércoles 8 de Octubre, 10:00 pm
+
