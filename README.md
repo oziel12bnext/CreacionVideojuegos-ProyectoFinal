@@ -45,7 +45,7 @@ Tiene como objetivo desarrollar un videojuego interactivo que combine creativida
 - Los commits deben tener mensajes claros (por ejemplo: `feat: agregar sistema de puntuación` o `docs: actualizar plan de trabajo`).  
 
 ## 🗓️ Profesor
-**Nombre:** Francisco Esparza  
-**Correo:** fesparzaa@gmail.com  
+**Nombre:** Consuelo Elizabeth de Leon Gonzalez
+**Correo:** 
 
 
