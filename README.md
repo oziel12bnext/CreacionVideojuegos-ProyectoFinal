@@ -45,6 +45,6 @@ Tiene como objetivo desarrollar un videojuego interactivo que combine creativida
 
 ## 🗓️ Profesor
 **Nombre:** Consuelo Elizabeth de Leon Gonzalez
-**Correo:** 
+**Correo:** consuelo.deleon@utsc.edu.mx
 
 
